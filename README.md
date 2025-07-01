@@ -10,11 +10,6 @@ A intuitive desktop todo list application built with Java Swing. This applicatio
 - 🖥️ Cross-platform desktop application
 - ⚡ Lightweight and fast performance
 
-## Screenshots
-![Screenshot 2025-07-01 185707](https://github.com/user-attachments/assets/753dedd3-54f6-41f5- 84c2-3d4849da9461)
-
-*Main application interface showing the task list and controls*
-
 ## Requirements
 
 - Java 8 or higher
